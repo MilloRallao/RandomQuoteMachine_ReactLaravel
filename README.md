@@ -1,6 +1,6 @@
 ## Random Quote Machine hecho con Laravel y React usando MaterialUI
 
-Ejercicio hecho como proyecto #1 del curso de Front-End de FreeCodeCamp.org
+Este ejercicio forma parte del proyecto #1 del módulo de Front-End de FreeCodeCamp.org
 
 Para probarlo:
 
